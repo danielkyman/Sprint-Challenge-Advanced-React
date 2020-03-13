@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+.dark-mode{
+  background: rgb(5, 3, 14);
+  color:rgb(236, 68, 2);
+}
